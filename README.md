@@ -30,11 +30,11 @@ SSRS Report - Performance Analysis Report (multiple windows function)
 SSRS Report - Performance Analysis Report part1 (with parameters)
 ![Alt text](GRP_param1.png)
 
-SSRS Report - Performance Analysis Report part1 (with parameters)
+SSRS Report - Performance Analysis Report part2 (with parameters)
 ![Alt text](GRP_param2.png)
 
-SSRS Report - Performance Analysis Report part1 (with parameters)
-![Alt text](GRP_param_blanks.png)
+SSRS Report - Performance Analysis blank Report (with parameters)
+![Alt text](GRP_param_blank.png)
 
 SSRS Report - Performance Report
 ![Alt text](SSRS_Performance_Report.png)
