@@ -3,7 +3,7 @@ This repository contains SSRS report snippets demonstrating key SQL concepts and
 Concepts covered:
 
 - case statements
-- aggregationin cluding having clause
+- aggregationin including having clause
 - common table expression (CTE)
 - union
 - window functions
@@ -15,15 +15,14 @@ Concepts covered:
   - last value
   - max
   - window and overall percentage
-  
- SSRS functionality:
- - shared datasource/dataset for reporting building
- - standard reports
- - grouped report with parameters
- - basic formatting
- - No records report from parameter selecttion
 
+SSRS functionality:
 
+- shared datasource/dataset for reporting building
+- standard reports
+- grouped report with parameters
+- basic formatting
+- No records report from parameter selecttion
 
 SSRS Report - Performance Analysis Report (multiple windows function)
 ![Alt text](T-SQL/SSRS_Performance_analysis.png)
