@@ -25,22 +25,22 @@ SSRS functionality:
 - No records report from parameter selecttion
 
 SSRS Report - Performance Analysis Report (multiple windows function)
-![Alt text](T-SQL/SSRS_Performance_analysis.png)
+![Alt text](SSRS_Performance_analysis.png)
 
 SSRS Report - Performance Analysis Report part1 (with parameters)
-![Alt text](T-SQL/GRP_param1.png)
+![Alt text](GRP_param1.png)
 
 SSRS Report - Performance Analysis Report part1 (with parameters)
-![Alt text](T-SQL/GRP_param2.png)
+![Alt text](GRP_param2.png)
 
 SSRS Report - Performance Analysis Report part1 (with parameters)
-![Alt text](T-SQL/GRP_param_blanks.png)
+![Alt text](GRP_param_blanks.png)
 
 SSRS Report - Performance Report
-![Alt text](T-SQL/SSRS_Performance_Report.png)
+![Alt text](SSRS_Performance_Report.png)
 
 SSRS Report - Performance Report YOY growth
-![Alt text](T-SQL/SSRS_Performance_YOY_growth.png)
+![Alt text](SSRS_Performance_YOY_growth.png)
 
 SSRS Report - Customer Segementation by Purchasing Pattern
-![Alt text](T-SQL/Customer_Segement.png)
+![Alt text](Customer_Segement.png)
