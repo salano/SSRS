@@ -3,7 +3,7 @@ This repository contains SSRS report snippets demonstrating key SQL concepts and
 Concepts covered:
 
 - case statements
-- aggregationin including having clause
+- aggregationin with having clause
 - common table expression (CTE)
 - union
 - window functions
